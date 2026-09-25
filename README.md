@@ -26,7 +26,6 @@ This project delivers an interactive Spend Analysis Dashboard created in Microso
 | **Stationery** | 519.186 € | 0,53 % | **C** | Process optimization: Consolidate small orders via framework agreements. |
 | **Office Supplies** | 501.616 € | 0,51 % | **C** | Automated ordering / E-procurement to minimize administrative costs. |
 
-> **Supplier Risk Note:** Over **98% of total procurement spend** is concentrated among just three main suppliers (*QuickDeliver*, *TechMart*, *FurniWorks*), indicating high dependency and a need for risk mitigation strategies.
 
 ---
 
