@@ -19,11 +19,12 @@ This project delivers an interactive Spend Analysis Dashboard created in Microso
 
 | Category | Spend (€) | Share (%) | ABC Class | Strategic Recommendation |
 | :--- | :--- | :--- | :--- | :--- |
-| **Software** | 1,383,325 € | 68.34 % | **A** | High-value priority: Conduct contract & license model reviews for cost reduction. |
-| **Furniture** | 304,708 € | 15.05 % | **B** | Strategic sourcing: Evaluate supplier performance and negotiate volume terms. |
-| **Electronics** | 286,786 € | 14.17 % | **B** | Dual-sourcing assessment to mitigate high supplier concentration risks. |
-| **Stationery** | 29,134 € | 1.44 % | **C** | Process optimization: Consolidate small orders via framework agreements. |
-| **Office Supplies** | 20,192 € | 1.00 % | **C** | Automated ordering / E-procurement to minimize administrative costs. |
+| **Electronics** | 53.434.138 € | 54,14 % | **A** | High-value priority: Dual-sourcing assessment to mitigate high supplier concentration risks. |
+| **Software** | 30.659.997 € | 31,07 % | **B** | Strategic sourcing: Conduct contract & license model reviews for cost reduction. |
+| **Furniture** | 12.084.703 € | 12,24 % | **B** | Strategic sourcing: Evaluate supplier performance and negotiate volume terms. |
+| **Accessories** | 1.493.596 € | 1,51 % | **C** | Process optimization: Implement standard catalog purchasing to reduce manual efforts. |
+| **Stationery** | 519.186 € | 0,53 % | **C** | Process optimization: Consolidate small orders via framework agreements. |
+| **Office Supplies** | 501.616 € | 0,51 % | **C** | Automated ordering / E-procurement to minimize administrative costs. |
 
 > **Supplier Risk Note:** Over **98% of total procurement spend** is concentrated among just three main suppliers (*QuickDeliver*, *TechMart*, *FurniWorks*), indicating high dependency and a need for risk mitigation strategies.
 
